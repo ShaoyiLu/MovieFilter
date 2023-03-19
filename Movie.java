@@ -1,8 +1,5 @@
 /**
  * This class models a movie
- *
- * @author Sulong
- *
  */
 public class Movie implements Comparable<Movie> {
     // Note: DO NOT MAKE ANY CHANGE TO THIS CLASS AND DO NOT SUBMIT IT TO GRADESCOPE
