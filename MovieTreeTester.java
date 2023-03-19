@@ -1,30 +1,3 @@
-//////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
-//
-// Title: P06 Movie Catalog
-// Course: CS 300 Summer 2022
-//
-// Author: Shaoyi Lu
-// Email: slu248@wisc.edu
-// Lecturer: Michelle Jensen
-//
-//////////////////// PAIR PROGRAMMERS COMPLETE THIS SECTION ///////////////////
-//
-// Partner Name: Zhimin Hu
-// Partner Email: hu436@wisc.edu
-// Partner Lecturer's Name: Michelle Jensen
-//
-// VERIFY THE FOLLOWING BY PLACING AN X NEXT TO EACH TRUE STATEMENT:
-// _X_ Write-up states that pair programming is allowed for this assignment.
-// _X_ We have both read and understand the course Pair Programming Policy.
-// _X_ We have registered our team prior to the team registration deadline.
-//
-///////////////////////// ALWAYS CREDIT OUTSIDE HELP //////////////////////////
-//
-// Persons: none
-// Online Sources: none
-//
-///////////////////////////////////////////////////////////////////////////////
-
 import java.util.ArrayList;
 import java.util.NoSuchElementException;
 
