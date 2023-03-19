@@ -2,10 +2,7 @@ import java.util.ArrayList;
 import java.util.NoSuchElementException;
 
 /**
- * This class checks the correctness of the implementation of the methods defined in the class
- * MovieTree.
- *
- * @author Shaoyi Lu
+ * This class checks the correctness of the implementation of the methods defined in the class MovieTree.
  */
 
 public class MovieTreeTester {
