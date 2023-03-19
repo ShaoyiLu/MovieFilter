@@ -3,8 +3,6 @@ import java.util.NoSuchElementException;
 
 /**
  * This class involves the implementation of a simple Movie Catalog using Binary Search Trees.
- *
- * @author Shaoyi Lu
  */
 public class MovieTree {
     private BSTNode<Movie> root; // root of this movie BST
